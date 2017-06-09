@@ -1,0 +1,5 @@
+
+Why feature branches are important? Keeps the master branch clean. Allows more than one developer to work on a project as once. 
+What is a branch? One continuous direction of code with a series of pointers that are moved to represent new commits.
+Creating a branch: git branch <name>
+Navigating between branches: git checkout <name of branch>
